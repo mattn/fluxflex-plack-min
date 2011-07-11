@@ -1,3 +1,12 @@
 Mimimum Project Running On FluxFlex
 ----
 
+How to run this project.
+
+1. Create account in https://www.fluxflex.com/.
+
+2. "Create a new Project". and type your project name.
+
+3. Open "Setup" tab. and click "One Click Install".
+
+4. Then, click install on "fluxflex-plack-min".
